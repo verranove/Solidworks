@@ -56,7 +56,11 @@
 Этот репозиторий и размещённые в нём файлы распространяются на условиях [MIT License](LICENSE).
 
 
-**ССЫЛКА 
+
+
+
+
+##ССЫЛКА ༼ つ ◕_◕ ༽つ
 ссылка для скачивания - https://drive.google.com/drive/folders/1G6riwnYq6hNTii0oYH-F_31vf9JZsP3x?usp=drive_link (Google Drive)
 
 
